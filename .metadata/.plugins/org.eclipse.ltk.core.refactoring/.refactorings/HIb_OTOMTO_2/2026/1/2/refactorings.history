@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;HIb_OTOMTO_2/src/main/java/Course.hbm.xml&apos; to &apos;Dept.hbm.xml&apos;" description="Rename resource &apos;Course.hbm.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/Course.hbm.xml" name="Dept.hbm.xml" stamp="1767693462635" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;HIb_OTOMTO_2/src/main/java/Dept.hbm.xml&apos; to &apos;DeptEmp.hbm.xml&apos;" description="Rename resource &apos;Dept.hbm.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/Dept.hbm.xml" name="DeptEmp.hbm.xml" stamp="1767693482056" updateReferences="true"/>
+</session>

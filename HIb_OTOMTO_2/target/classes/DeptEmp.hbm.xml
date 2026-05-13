@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping >
+
+  <class name="Dept" table="dept" dynamic-insert="true" dynamic-update="true">
+  <id name ="deptno" column="deptno" type="integer" length="5">
+    <generator class="increment"/>
+  </id>
+  <property name="deptname" type="string" length="255">
+  <property name="location" type="string" length="255">
+  <bag name="empList" cascade="all">
+      <key column="Deptno"/>
+    <one-to-many class="Emp"/>
+  </bag>
+  </class>
+  
+  <class name="Emp" table="emp" dynamic-insert="true" dynamic-update="true">
+      <id name ="eid" column="eid" type="integer" length="5">
+      <generator class="increment"/>
+    </id>
+    <property name="ename" column="ename" type="string" length="255">
+    <property name="sal" column="sal" type="double" length="10">
+    <property name="desig" column="desig" type="string" length="255">
+    <many-to-one name="dept" class="Dept" column="deptno">
+  </class>
+</hibernate-mapping>

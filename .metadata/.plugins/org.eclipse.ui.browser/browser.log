@@ -1,0 +1,28 @@
+
+Dec 12, 2025 11:19:57.567 NEW SESSION
+Dec 12, 2025 11:19:57.569 Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 12, 2025 11:19:59.992 [11724:1640:1212/111959.991:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Dec 12, 2025 11:20:20.890 [11724:1640:1212/112020.890:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -118
+Dec 12, 2025 11:20:27.816 [11724:1640:1212/112027.816:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Dec 12, 2025 11:20:41.874 [11724:1640:1212/112041.874:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -202
+Dec 12, 2025 11:21:11.217 [11724:1640:1212/112111.216:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Dec 12, 2025 11:21:53.515 [11724:1640:1212/112153.515:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -118
+Dec 12, 2025 11:22:48.340 [11724:1640:1212/112248.340:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Dec 12, 2025 11:23:52.523 [11724:1640:1212/112352.522:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -202
+Dec 12, 2025 11:25:49.871 [11724:1640:1212/112549.870:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 12, 2025 11:32:30.680 [11724:1640:1212/113230.678:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 12, 2025 11:33:08.364 [11724:1640:1212/113308.363:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 12, 2025 11:33:37.939 [11724:1640:1212/113337.938:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 12, 2025 11:34:25.781 [11724:1640:1212/113425.781:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 12, 2025 11:35:54.967 [11724:1640:1212/113554.967:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 12, 2025 11:39:55.297 [11724:1640:1212/113955.297:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 12, 2025 11:47:09.786 [11724:1640:1212/114709.784:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 12, 2025 11:48:27.637 [11724:1640:1212/114827.636:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:483] ConnectionHandler failed with net error: -2
+Dec 12, 2025 11:51:51.576 [11724:1640:1212/115151.576:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:483] ConnectionHandler failed with net error: -2
+Dec 12, 2025 12:03:47.262 [11724:1640:1212/120347.261:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:483] ConnectionHandler failed with net error: -2
+Dec 12, 2025 12:04:08.408 [11724:1640:1212/120408.407:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -118
+Dec 12, 2025 12:04:34.472 [11724:1640:1212/120434.471:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -202
+Dec 12, 2025 12:05:40.694 [11724:1640:1212/120540.693:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -118
+Dec 12, 2025 12:07:18.311 [11724:1640:1212/120718.311:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -202
+Dec 12, 2025 12:07:50.664 [11724:1640:1212/120750.664:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:483] ConnectionHandler failed with net error: -2
+Dec 12, 2025 12:14:32.117 [11724:10948:1212/121432.116:ERROR:mojo\public\cpp\bindings\lib\interface_endpoint_client.cc:732] Message 0 rejected by interface blink.mojom.WidgetHost
